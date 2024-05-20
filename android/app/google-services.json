@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "874975943108",
+    "firebase_url": "https://wallet12-68e44-default-rtdb.firebaseio.com",
+    "project_id": "wallet12-68e44",
+    "storage_bucket": "wallet12-68e44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874975943108:android:b1f7c713435d80df26ac91",
+        "android_client_info": {
+          "package_name": "com.example.Flutterfolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY7o414SrwFCbnk38yMxl5mDZ0cWNIanw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
